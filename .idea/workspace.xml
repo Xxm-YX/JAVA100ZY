@@ -5,40 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="273a8af7-c45e-4733-84a2-356c030d7915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/concurrenthashmapmisuse/ConcurrentHashMapMisureController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/concurrenthashmapmisuse/ConcurrentHashMapPerformanceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/copyonwritelistmisuse/CopyOnWriteListMisuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/threadLocal/ThreadLocalMemoryLeakController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/threadLocal/ThreadLocalMisuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/connectionpool/httpclient/HttpClientNotReuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/connectionpool/jedis/JedisMisreuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/httpinvoke/clientreadtimeout/ClientReadTimeoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/httpinvoke/routelimit/RouteLimitController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/deadlock/DeadLockController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/lockgranularity/LockGranularityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/lockscope/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/lockscope/Interesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/lockscope/LockScopeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpoolmixuse/ThreadPoolMixuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpooloom/ThreadPoolOOMController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpoolreuse/ThreadPoolReuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/SubUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/TransactionPropagationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/TransactionProxyFailedController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionrollbackfailed/TransactionProxyFailedController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionrollbackfailed/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionrollbackfailed/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionrollbackfailed/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/resources/tomcat.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/resources/application.properties" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/collection/aslist/AsListApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/collection/sublist/SubListApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/equals/compareto/CompareToController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/equals/equalitymethod/EqualityMethodController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/equals/intandstringequal/IntAndStringEqualController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/equals/intandstringequal/OrderQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/equals/lombokequals/LombokEquealsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/numeralcalculations/dangerousdouble/CommonMistakesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/numeralcalculations/equals/CommonMistakesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/numeralcalculations/overflowissue/CommonMistakesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/numeralcalculations/rounding/CommonMistakesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/ConcurrencyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/ConcurrencyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/connectionpool/jedis/JedisMisreuseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/connectionpool/jedis/JedisMisreuseController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

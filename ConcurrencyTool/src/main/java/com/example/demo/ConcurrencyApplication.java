@@ -9,5 +9,4 @@ public class ConcurrencyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConcurrencyApplication.class, args);
 	}
-
 }
