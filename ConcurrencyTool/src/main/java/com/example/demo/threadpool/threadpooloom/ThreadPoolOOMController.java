@@ -1,6 +1,5 @@
 package com.example.demo.threadpool.threadpooloom;
 
-import com.sun.corba.se.spi.orbutil.threadpool.ThreadPool;
 import jodd.util.concurrent.ThreadFactoryBuilder;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
