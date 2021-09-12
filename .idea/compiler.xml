@@ -8,11 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ConcurrencyTool" />
+        <module name="demo" />
         <module name="JAVA100ZY" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ConcurrencyTool" target="1.8" />
+      <module name="demo" target="1.8" />
       <module name="JAVA100ZY" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -20,6 +22,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ConcurrencyTool" options="-parameters" />
       <module name="JAVA100ZY" options="-parameters" />
+      <module name="demo" options="-parameters" />
     </option>
   </component>
 </project>

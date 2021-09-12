@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ConcurrencyTool/ConcurrencyTool.iml" filepath="$PROJECT_DIR$/ConcurrencyTool/ConcurrencyTool.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA100ZY.iml" filepath="$PROJECT_DIR$/JAVA100ZY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrencyTool/demo.iml" filepath="$PROJECT_DIR$/ConcurrencyTool/demo.iml" />
     </modules>
   </component>
 </project>

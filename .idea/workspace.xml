@@ -5,40 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="273a8af7-c45e-4733-84a2-356c030d7915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/concurrenthashmapmisuse/ConcurrentHashMapMisureController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/concurrenthashmapmisuse/ConcurrentHashMapPerformanceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/copyonwritelistmisuse/CopyOnWriteListMisuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/threadLocal/ThreadLocalMemoryLeakController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/concurrencyTool/threadLocal/ThreadLocalMisuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/connectionpool/httpclient/HttpClientNotReuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/connectionpool/jedis/JedisMisreuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/httpinvoke/clientreadtimeout/ClientReadTimeoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/httpinvoke/routelimit/RouteLimitController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/deadlock/DeadLockController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/lockgranularity/LockGranularityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/lockscope/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/lockscope/Interesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/lock/lockscope/LockScopeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpoolmixuse/ThreadPoolMixuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpooloom/ThreadPoolOOMController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpoolreuse/ThreadPoolReuseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/SubUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/TransactionPropagationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/TransactionProxyFailedController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionrollbackfailed/TransactionProxyFailedController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionrollbackfailed/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionrollbackfailed/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionrollbackfailed/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/resources/tomcat.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConcurrencyTool/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +35,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\Tool\maven\.m\repository" />
-        <option name="mavenHome" value="E:/Tool/maven/apache-maven-3.8.1" />
-        <option name="userSettingsFile" value="E:\Tool\maven\apache-maven-3.8.1\conf\settings.xml" />
+        <option name="localRepository" value="F:\StudyTool\Maven\.m2\repository" />
+        <option name="userSettingsFile" value="F:\StudyTool\Maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -83,7 +50,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1356852" />
@@ -95,6 +66,11 @@
       <recent name="D:\IDEAProject\JAVA100ZY\ConcurrencyTool\src\main\java\com\example\demo\transaction\transactionrollbackfailed" />
       <recent name="D:\IDEAProject\JAVA100ZY\ConcurrencyTool\src\main\resources" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn -U idea:idea" />
+    </option>
   </component>
   <component name="RunManager" selected="Maven.Unnamed">
     <configuration name="Interesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -135,6 +111,13 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="ConcurrencyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ConcurrencyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Interesting" />
@@ -149,8 +132,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623922609538</updated>
+      <workItem from="1625910326434" duration="2300000" />
+      <workItem from="1625988351370" duration="1076000" />
+      <workItem from="1627110503445" duration="815000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
