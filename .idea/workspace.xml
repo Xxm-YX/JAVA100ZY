@@ -5,8 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="273a8af7-c45e-4733-84a2-356c030d7915" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/ConcurrencyTool/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/collection/linkedlist/LinkedListApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/collection/listremove/ListRemoveApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/collection/listvsmap/ListVsMapApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/finallyissue/FinallyIssueController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/finallyissue/TestResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/handleexception/APIResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/handleexception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/handleexception/HandleExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/handleexception/RestControllerExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/predefinedexception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/predefinedexception/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/predefinedexception/PredefinedExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/exception/threadpoolandexception/ThreadPoolAndExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/async/LoggingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/async/MySlowAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/async/asyncwrong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/async/performance_async.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/async/performance_sync.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/duplicate/LoggingController1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/duplicate/MultipleLevelsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/duplicate/filterright.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/duplicate/filterwrong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/duplicate/loggerright1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/duplicate/loggerright2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/duplicate/loggerwrong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/logging/duplicate/multiplelevelsfilter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/nullvalue/avoidnullpointerexception/AvoidNullPointerExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/nullvalue/pojonull/POJONullController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/nullvalue/pojonull/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/nullvalue/pojonull/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/nullvalue/pojonull/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/nullvalue/pojonull/UserEntityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/nullvalue/pojonull/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/ConcurrencyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/ConcurrencyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/collection/sublist/SubListApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/collection/sublist/SubListApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpooloom/ThreadPoolOOMController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpooloom/ThreadPoolOOMController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/TransactionProxyFailedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/TransactionProxyFailedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionproxyfailed/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrencyTool/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrencyTool/src/main/resources/application.yml" afterDir="false" />
+>>>>>>> 7c5b38044e7615ac9ca213f42a71ccc6300edfd9
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,19 +111,53 @@
       <recent name="D:\IDEAProject\JAVA100ZY\ConcurrencyTool\src\main\java\com\example\demo\transaction\transactionrollbackfailed" />
       <recent name="D:\IDEAProject\JAVA100ZY\ConcurrencyTool\src\main\resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\JAVA100ZY\ConcurrencyTool\src\main\java\com\example\demo\logging\duplicate" />
+      <recent name="D:\IDEAProject\JAVA100ZY\ConcurrencyTool\src\main\resources" />
+    </key>
   </component>
+<<<<<<< HEAD
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn -U idea:idea" />
     </option>
   </component>
   <component name="RunManager" selected="Maven.Unnamed">
+=======
+  <component name="RunManager" selected="Application.ConcurrencyApplication">
+    <configuration name="ConcurrencyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.ConcurrencyApplication" />
+      <module name="ConcurrencyTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> 7c5b38044e7615ac9ca213f42a71ccc6300edfd9
     <configuration name="Interesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.lock.lockscope.Interesting" />
       <module name="ConcurrencyTool" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.demo.lock.lockscope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.collection.sublist.SubListApplication" />
+      <module name="ConcurrencyTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.collection.sublist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,6 +199,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConcurrencyApplication" />
+        <item itemvalue="Application.SubListApplication" />
         <item itemvalue="Application.Interesting" />
       </list>
     </recent_temporary>
@@ -171,7 +252,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/threadpool/threadpooloom/ThreadPoolOOMController.java</url>
-          <line>141</line>
+          <line>140</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
@@ -188,6 +269,11 @@
           <url>file://$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/transaction/transactionpropagation/UserService.java</url>
           <line>23</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ConcurrencyTool/src/main/java/com/example/demo/nullvalue/pojonull/POJONullController.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
